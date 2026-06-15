@@ -1,0 +1,13 @@
+{
+  "status": true,
+  "data": [
+    {
+      "title": "Seu Servidor 1",
+      "url": "http://deyler147.fun:80/"
+    },
+    {
+      "title": "Seu Servidor 2",
+      "url": "http://deyler147.fun:80"
+    }
+  ]
+]
